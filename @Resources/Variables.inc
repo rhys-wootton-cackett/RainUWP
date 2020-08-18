@@ -26,11 +26,6 @@ TextCaptionSize=9
 ; ---------------------------------------------
 ; THEME STYLES
 ; ---------------------------------------------
-DarkThemeBackground=0,0,0,128
-DarkThemeTextColour=255,255,255,255
-
-LightThemeBackground=255,255,255,128
-LightThemeTextColour=0,0,0,255
-
-CurrentThemeBackground=#DarkThemeBackground#
-CurrentThemeTextColour=#DarkThemeTextColour#
+CurrentThemeBackground=0,0,0,128
+CurrentThemeTextColour=255,255,255,255
+CurrentThemeGreyAccent=69,69,69,255
