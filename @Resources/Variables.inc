@@ -28,4 +28,18 @@ TextCaptionSize=9
 ; ---------------------------------------------
 CurrentThemeBackground=0,0,0,128
 CurrentThemeTextColour=255,255,255,255
-CurrentThemeGreyAccent=69,69,69,255
+CurrentThemeGreyAccent=100,100,100,255
+
+; ---------------------------------------------
+; CPU VARIABLES
+; ---------------------------------------------
+HWiNFO_CPUNameSensorID=0xf0000300
+HWiNFO_CPUNameSensorInstance=0x0
+HWiNFO_CPUUsage=0x7000005
+HWiNFO_CPUCore0Clock=0x6000000
+
+HWiNFO_CPUDTSSensorID=0xf0000400
+HWiNFO_CPUDTSSensorInstance=0x0
+HWiNFO_CPUTemperature=0x10000fe
+
+
