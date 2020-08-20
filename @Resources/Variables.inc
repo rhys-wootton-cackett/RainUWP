@@ -27,8 +27,15 @@ TextCaptionSize=9
 ; THEME STYLES
 ; ---------------------------------------------
 CurrentThemeBackground=0,0,0,128
+CurrentThemeSettingsBackground=0,0,0,255
 CurrentThemeTextColour=255,255,255,255
-CurrentThemeGreyAccent=100,100,100,255
+CurrentThemeGreyHover=100,100,100,128
+
+; ---------------------------------------------
+; CLOCK VARIABLES
+; ---------------------------------------------
+TimeFormat=%H:%M
+DateFormat=%A %e %B
 
 ; ---------------------------------------------
 ; CPU VARIABLES
@@ -68,3 +75,14 @@ HWiNFO_Drive3_ReadRateID=0x8000000
 HWiNFO_Drive3_WriteRateID=0x8000001
 HWiNFO_Drive3_ReadTotalID=0x8000002
 HWiNFO_Drive3_WriteTotalID=0x8000003
+
+; ---------------------------------------------
+; GPU VARIABLES
+; ---------------------------------------------
+HWiNFO_GPU_NameSensorID=0xe0001800
+HWiNFO_GPU_NameSensorInstance=0x20
+HWiNFO_GPU_Utilisation=0x7000000
+HWiNFO_GPU_D3DUsage=0x7000001
+HWiNFO_GPU_D3DMemory=0x8000001
+HWiNFO_GPU_ThermalDiode=0x1000000
+GPU_Memory=3072
