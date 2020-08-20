@@ -42,4 +42,29 @@ HWiNFO_CPUDTSSensorID=0xf0000400
 HWiNFO_CPUDTSSensorInstance=0x0
 HWiNFO_CPUTemperature=0x10000fe
 
+; ---------------------------------------------
+; DRIVE VARIABLES
+; ---------------------------------------------
+HWiNFO_Drive1_NameSensorID=0xf0000101
+HWiNFO_Drive1_NameSensorInstance=0x0
+HWiNFO_Drive1_TotalActivityID=0x7000002
+HWiNFO_Drive1_ReadRateID=0x8000000
+HWiNFO_Drive1_WriteRateID=0x8000001
+HWiNFO_Drive1_ReadTotalID=0x8000002
+HWiNFO_Drive1_WriteTotalID=0x8000003
 
+HWiNFO_Drive2_NameSensorID=0xf0000101
+HWiNFO_Drive2_NameSensorInstance=0x1
+HWiNFO_Drive2_TotalActivityID=0x7000002
+HWiNFO_Drive2_ReadRateID=0x8000000
+HWiNFO_Drive2_WriteRateID=0x8000001
+HWiNFO_Drive2_ReadTotalID=0x8000002
+HWiNFO_Drive2_WriteTotalID=0x8000003
+
+HWiNFO_Drive3_NameSensorID=0xf0000101
+HWiNFO_Drive3_NameSensorInstance=0x0
+HWiNFO_Drive3_TotalActivityID=0x7000002
+HWiNFO_Drive3_ReadRateID=0x8000000
+HWiNFO_Drive3_WriteRateID=0x8000001
+HWiNFO_Drive3_ReadTotalID=0x8000002
+HWiNFO_Drive3_WriteTotalID=0x8000003
