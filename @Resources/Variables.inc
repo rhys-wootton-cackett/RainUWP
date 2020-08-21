@@ -26,10 +26,26 @@ TextCaptionSize=9
 ; ---------------------------------------------
 ; THEME STYLES
 ; ---------------------------------------------
-CurrentThemeBackground=0,0,0,128
-CurrentThemeSettingsBackground=0,0,0,255
-CurrentThemeTextColour=255,255,255,255
-CurrentThemeGreyHover=100,100,100,128
+LightThemeBackground=255,255,255,128
+LightThemeSettingsBackground=255,255,255,255
+LightThemeTextColour=0,0,0,255
+LightThemeGreyHover=100,100,100,128
+LightThemeGreyAccent=100,100,100,255
+LightThemeImageType="-light"
+
+DarkThemeBackground=0,0,0,128
+DarkThemeSettingsBackground=0,0,0,255
+DarkThemeTextColour=255,255,255,255
+DarkThemeGreyHover=100,100,100,128
+DarkThemeGreyAccent=100,100,100,255
+DarkThemeImageType=""
+
+CurrentThemeBackground=#LightThemeBackground#
+CurrentThemeSettingsBackground=#LightThemeSettingsBackground#
+CurrentThemeTextColour=#LightThemeTextColour#
+CurrentThemeGreyHover=#LightThemeGreyHover#
+CurrentThemeGreyAccent=#LightThemeGreyAccent#
+CurrentThemeImageType=#LightThemeImageType#
 
 ; ---------------------------------------------
 ; CLOCK VARIABLES
