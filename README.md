@@ -1,2 +1,2 @@
-# UWP-RM
+# RainUWP
  A UWP-esque Rainmeter skin
