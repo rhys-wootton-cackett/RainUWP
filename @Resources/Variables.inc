@@ -40,17 +40,17 @@ DarkThemeGreyHover=100,100,100,128
 DarkThemeGreyAccent=100,100,100,255
 DarkThemeImageType=""
 
-CurrentThemeBackground=#LightThemeBackground#
-CurrentThemeSettingsBackground=#LightThemeSettingsBackground#
-CurrentThemeTextColour=#LightThemeTextColour#
-CurrentThemeGreyHover=#LightThemeGreyHover#
-CurrentThemeGreyAccent=#LightThemeGreyAccent#
-CurrentThemeImageType=#LightThemeImageType#
+CurrentThemeBackground=#DarkThemeBackground#
+CurrentThemeSettingsBackground=#DarkThemeSettingsBackground#
+CurrentThemeTextColour=#DarkThemeTextColour#
+CurrentThemeGreyHover=#DarkThemeGreyHover#
+CurrentThemeGreyAccent=#DarkThemeGreyAccent#
+CurrentThemeImageType=#DarkThemeImageType#
 
 ; ---------------------------------------------
 ; CLOCK VARIABLES
 ; ---------------------------------------------
-TimeFormat=%H:%M
+TimeFormat=%I:%M %p
 DateFormat=%A %e %B
 
 ; ---------------------------------------------
