@@ -95,10 +95,10 @@ HWiNFO_Drive3_WriteTotalID=0x8000003
 ; ---------------------------------------------
 ; GPU VARIABLES
 ; ---------------------------------------------
-HWiNFO_GPU_NameSensorID=0xe0001800
-HWiNFO_GPU_NameSensorInstance=0x20
+HWiNFO_GPU_NameSensorID=0xe0002000
+HWiNFO_GPU_NameSensorInstance=0x14
 HWiNFO_GPU_Utilisation=0x7000000
-HWiNFO_GPU_D3DUsage=0x7000001
-HWiNFO_GPU_D3DMemory=0x8000001
+HWiNFO_GPU_D3DUsage=0x7000009
+HWiNFO_GPU_D3DMemory=0x80000fd
 HWiNFO_GPU_ThermalDiode=0x1000000
-GPU_Memory=3072
+GPU_Memory=4096
