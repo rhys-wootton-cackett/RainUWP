@@ -50,7 +50,7 @@ CurrentThemeImageType=#DarkThemeImageType#
 ; ---------------------------------------------
 ; CLOCK VARIABLES
 ; ---------------------------------------------
-TimeFormat=%I:%M %p
+TimeFormat=%H:%M
 DateFormat=%A %e %B
 
 ; ---------------------------------------------
@@ -63,7 +63,7 @@ HWiNFO_CPUCore0Clock=0x6000000
 
 HWiNFO_CPUDTSSensorID=0xf0000400
 HWiNFO_CPUDTSSensorInstance=0x0
-HWiNFO_CPUTemperature=0x10000fe
+HWiNFO_CPUTemperature=0x10000ff
 
 ; ---------------------------------------------
 ; DRIVE VARIABLES
