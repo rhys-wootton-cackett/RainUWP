@@ -104,6 +104,13 @@ HWiNFO_GPU_ThermalDiode=0x1000000
 GPU_Memory=3072
 
 ; ---------------------------------------------
+; WEATHER VARIABLES
+; ---------------------------------------------
+WeatherDegrees=metric
+WeatherAPIKey=bad671f9f963b25fdfe5d626eab04844
+
+; ---------------------------------------------
 ; SETTINGS VARIABLES
 ; ---------------------------------------------
 SelectedDrive=Drive1
+WeatherCity=London
