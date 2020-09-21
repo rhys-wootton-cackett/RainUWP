@@ -29,14 +29,14 @@ TextCaptionSize=9
 LightThemeBackground=255,255,255,192
 LightThemeSettingsBackground=255,255,255,255
 LightThemeTextColour=0,0,0,255
-LightThemeGreyHover=100,100,100,128
+LightThemeGreyHover=255,255,255,255
 LightThemeGreyAccent=100,100,100,255
 LightThemeImageType="-light"
 
 DarkThemeBackground=0,0,0,192
 DarkThemeSettingsBackground=0,0,0,255
 DarkThemeTextColour=255,255,255,255
-DarkThemeGreyHover=100,100,100,128
+DarkThemeGreyHover=31,31,31,255
 DarkThemeGreyAccent=100,100,100,255
 DarkThemeImageType=""
 
@@ -108,6 +108,15 @@ GPU_Memory=3072
 ; ---------------------------------------------
 WeatherDegrees=metric
 WeatherAPIKey=bad671f9f963b25fdfe5d626eab04844
+
+; ---------------------------------------------
+; NEWS VARIABLES
+; ---------------------------------------------
+NewsRSSFeed0=http://feeds.skynews.com/feeds/rss/home.xml
+NewsRSSFeed1=http://feeds.skynews.com/feeds/rss/world.xml
+NewsRSSFeed2=http://feeds.marketwatch.com/marketwatch/topstories/
+NewsRSSFeed3=https://www.techradar.com/uk/rss
+NewsRSSFeed4=https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU
 
 ; ---------------------------------------------
 ; SETTINGS VARIABLES
